@@ -74,4 +74,4 @@ Explore the detailed progress and technical specifications in the chapters below
 
 * Created by [Kacper Łuszcz]
 
-* Feel free to reach out if you have any questions or 
+* Feel free to reach out if you have any questions or suggestions
