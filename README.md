@@ -32,7 +32,14 @@ The main goal of this project is to build a basic robotics platform from scratch
 
 ## Hardware Stack
 in progress...
-
+| Category | Technology |
+| :--- | :--- |
+| **Microcontroller** | ESP32 |
+| **Motors** | 2xN20 150 rpm 6V |
+| **Motors driver**| TB6612 |
+| **Power supply** | 2xLi-Ion 18650 3.7V 2200mAh|
+| **Battery managemenet system**| 2S 10A 7.4V |
+| **Voltage converter** | XL4015 5A |
 
 ---
 
