@@ -49,13 +49,13 @@ in progress...
 Explore the detailed progress and technical specifications in the chapters below:
 
 
-1.  **[Mechanics & Chassis](./docs/mechanics.md)** – Design choices, 3D models, and assembly.
+1.  **[Mechanics & Chassis](./.docs/mechanics.md)** – Design choices, 3D models, and assembly.
 
-2.  **[Electronics & Power](./docs/electronics.md)** – Schematic diagrams, motor drivers, and battery management.
+2.  **[Electronics & Power](./.docs/electronics.md)** – Schematic diagrams, motor drivers, and battery management.
 
-3.  **[Software Architecture](./docs/software.md)** – Kinematics, PID control, and C++ implementation.
+3.  **[Software Architecture](./.docs/software.md)** – Kinematics, PID control, and C++ implementation.
 
-4.  **[Development Log](./docs/devlog.md)** – A chronological journal of progress and solved challenges.
+4.  **[Development Log](./.docs/devlog.md)** – A chronological journal of progress and solved challenges.
 
 
 ---
